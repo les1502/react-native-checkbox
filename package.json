@@ -1,0 +1,61 @@
+{
+  "_args": [
+    [
+      "react-native-checkbox@2.0.0",
+      "F:\\App2\\App"
+    ]
+  ],
+  "_from": "react-native-checkbox@2.0.0",
+  "_id": "react-native-checkbox@2.0.0",
+  "_inBundle": false,
+  "_integrity": "sha1-RTu/0uBVoh5p6+eEJBSgVdUP9Ek=",
+  "_location": "/react-native-checkbox",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-checkbox@2.0.0",
+    "name": "react-native-checkbox",
+    "escapedName": "react-native-checkbox",
+    "rawSpec": "2.0.0",
+    "saveSpec": null,
+    "fetchSpec": "2.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/react-native-checkbox/download/react-native-checkbox-2.0.0.tgz",
+  "_spec": "2.0.0",
+  "_where": "F:\\App2\\App",
+  "author": {
+    "name": "Bogdan Carmanus",
+    "email": "carmanusbogdan@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/sconxu/react-native-checkbox/issues"
+  },
+  "dependencies": {
+    "prop-types": "^15.5.10"
+  },
+  "description": "Checkbox component for React native",
+  "homepage": "https://github.com/sconxu/react-native-checkbox#readme",
+  "keywords": [
+    "react-native",
+    "checkbox",
+    "component",
+    "react-component",
+    "react-native",
+    "ios"
+  ],
+  "license": "ISC",
+  "main": "checkbox.js",
+  "name": "react-native-checkbox",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sconxu/react-native-checkbox.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.0.0"
+}
